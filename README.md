@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/trannguyenvu3482](github.com/trannguyenvu3482)
 
-- 📫 How to reach me **linktr.ee/trannguyenvu3482**
+- 📫 How to reach me: **linktr.ee/trannguyenvu3482**
 
-- ⚡ Fun fact **Musical person**
+- ⚡ Fun fact: **Musical person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
