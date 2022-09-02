@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trannguyenvu3482" alt="trannguyenvu3482" /></a> </p>
 
-- 🔭 I’m currently working on **learning ReactJS**
-
-- 🌱 I’m currently learning **HTML, CSS, JS, ReactJS, React Native**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [github.com/trannguyenvu3482](github.com/trannguyenvu3482)
 
 - 📫 How to reach me: **linktr.ee/trannguyenvu3482**
-
-- ⚡ Fun fact: **Musical person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
