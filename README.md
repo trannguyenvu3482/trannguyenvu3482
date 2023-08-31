@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trannguyenvu3482" alt="trannguyenvu3482" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at: https://vutran-portfolio.netlify.app
 
